@@ -40,7 +40,7 @@ header ul a{
 
 
 _________________________
-
+/* LOGOTIPO */
 
 .logotipo{
     padding: 30px;
@@ -49,6 +49,12 @@ _________________________
 .menu{
     background: #000;
 }
+
+
+/* MENÚ */
+
+
+
 .menu ul{
     list-style: none;
 }
@@ -94,6 +100,8 @@ font-size: .8em;
 }
 
 
+/* CONTENIDO */
+
 .contenedor1{
       height: 80%;
   background: #FFF;
@@ -108,6 +116,7 @@ font-size: .8em;
 }
 
 
+/* FOOTER */
 footer
 {
       height: 5%;
