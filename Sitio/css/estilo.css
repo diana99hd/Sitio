@@ -23,6 +23,7 @@ header{
   background-image: url('../img/blur.jpg');
      background-repeat: no-repeat;
     background-size: cover;
+     padding: 25px 50px;
    
   }
 
@@ -45,12 +46,11 @@ header ul a{
 
 
 
-
 _________________________
 /* LOGOTIPO */
 
 .logotipo{
-    padding: 30px;
+    padding: 50% 49%;
 }
 .logotipo img{ max-height: 80px;}
 .menu{
