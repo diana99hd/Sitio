@@ -1,7 +1,28 @@
-# WEB Materia 2
-## Ejercicios de HTML para la materia 2 de Desarrollo Web
+# Pobreza
+## Proyecto Integrador
+---
 
-Los ejercicios que vamos a ver son:
+Activos:
+- Museo
+- Videojuego
+- Infografía animada
+- Logotipo
 
--Estructura básica de HTML y CSS.
--Ejercicios de maquetación.
+---
+
+**Lista de materias**
+
+- Sonido Digital  
+- Hojas de estilos.....
+- Diseño de espacios
+- Videojuegos
+- Animación
+- Modelado 3D de objetos articulados
+
+
+LINK: https://www.figma.com/file/DPjsbCZefECKmjvvDW1ieYxL/123
+
+
+# Personaje
+
+![Personaje](personaje.jpg)
